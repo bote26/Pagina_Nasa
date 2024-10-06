@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import scipy
 from comparison import similarity
 from comprobar_vida import check_life
 from distancias import Distancias
