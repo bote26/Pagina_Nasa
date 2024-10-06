@@ -5,7 +5,6 @@ from comparison import similarity
 from comprobar_vida import check_life
 from distancias import Distancias
 from conseguir_url import link
-from consultar_chat import consultar_chatgpt
 import numpy as np
 from datetime import timedelta
 
